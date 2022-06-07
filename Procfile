@@ -1,0 +1,1 @@
+web: gunicorn Neurons.wsgi --log-file -
